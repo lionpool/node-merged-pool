@@ -34,7 +34,7 @@
         "url": "https://github.com/lionpool/node-merged-pool.git"
     },
     "dependencies": {
-	"node-multi-hashing": "git://github.com/lionpool/node-multi-hashing.git",
+	"multi-hashing": "git://github.com/lionpool/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
